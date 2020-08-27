@@ -11,5 +11,4 @@
 # Flume 项目启动命令
 
 ### back_bimservice
-    nohup flume-ng agent --conf /home/flume/flume/conf --conf-file /home/flume/flume/conf/flume-back-bim-service.conf --name back_bimservice 
-    > /home/flume/flume/log/back_bimservice.log 2>&1 & 
+    nohup flume-ng agent --conf /home/flume/flume/conf --conf-file /home/flume/flume/conf/flume-back-dev.conf --name back_dev > /home/flume/flume/log/back_dev.log 2>&1 & 
