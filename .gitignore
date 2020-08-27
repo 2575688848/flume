@@ -1,0 +1,17 @@
+.idea/
+
+*.iml
+
+flume-intercepter/dependency-reduced-pom.xml
+
+flume-intercepter/target/classes/
+
+flume-intercepter/target/test-classes/
+
+flume-intercepter/target/maven-archiver/
+
+flume-intercepter/target/maven-status/
+
+flume-intercepter/target/generated-sources/
+
+flume-intercepter/target/flume-intercepter-1.0.jar
